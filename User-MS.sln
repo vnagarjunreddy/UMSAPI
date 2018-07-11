@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCR.Users.API", "PCR.Users.API\PCR.Users.API.csproj", "{C674DBAA-03D3-4F79-9998-54A25C683FAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCR.Users.API.Tests", "PCR.Users.API.Tests\PCR.Users.API.Tests.csproj", "{E3853F2E-6FA7-4062-B7BE-64D6EFEB92C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCR.Users.Models", "PCR.Users.Model\PCR.Users.Models.csproj", "{3A27C1EE-675A-423B-A4B4-E8E3A4B1F39D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCR.Users.Services", "PCR.Users.Services\PCR.Users.Services.csproj", "{DC149A51-2E87-4B72-9A90-E2F59B60AE4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCR.Users.Data", "PCR.Users.Data\PCR.Users.Data.csproj", "{9FD2C335-A34F-4ECF-BD73-5170DC235781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C674DBAA-03D3-4F79-9998-54A25C683FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C674DBAA-03D3-4F79-9998-54A25C683FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C674DBAA-03D3-4F79-9998-54A25C683FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C674DBAA-03D3-4F79-9998-54A25C683FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3853F2E-6FA7-4062-B7BE-64D6EFEB92C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3853F2E-6FA7-4062-B7BE-64D6EFEB92C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3853F2E-6FA7-4062-B7BE-64D6EFEB92C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3853F2E-6FA7-4062-B7BE-64D6EFEB92C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A27C1EE-675A-423B-A4B4-E8E3A4B1F39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A27C1EE-675A-423B-A4B4-E8E3A4B1F39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A27C1EE-675A-423B-A4B4-E8E3A4B1F39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A27C1EE-675A-423B-A4B4-E8E3A4B1F39D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC149A51-2E87-4B72-9A90-E2F59B60AE4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC149A51-2E87-4B72-9A90-E2F59B60AE4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC149A51-2E87-4B72-9A90-E2F59B60AE4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC149A51-2E87-4B72-9A90-E2F59B60AE4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FD2C335-A34F-4ECF-BD73-5170DC235781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD2C335-A34F-4ECF-BD73-5170DC235781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD2C335-A34F-4ECF-BD73-5170DC235781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD2C335-A34F-4ECF-BD73-5170DC235781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://bbonboard.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PCR.Users.API.Tests\\PCR.Users.API.Tests.csproj
+		SccProjectName1 = PCR.Users.API.Tests
+		SccLocalPath1 = PCR.Users.API.Tests
+		SccProjectUniqueName2 = PCR.Users.API\\PCR.Users.API.csproj
+		SccProjectName2 = PCR.Users.API
+		SccLocalPath2 = PCR.Users.API
+		SccProjectUniqueName3 = PCR.Users.Data\\PCR.Users.Data.csproj
+		SccProjectName3 = PCR.Users.Data
+		SccLocalPath3 = PCR.Users.Data
+		SccProjectUniqueName4 = PCR.Users.Model\\PCR.Users.Models.csproj
+		SccProjectName4 = PCR.Users.Model
+		SccLocalPath4 = PCR.Users.Model
+		SccProjectUniqueName5 = PCR.Users.Services\\PCR.Users.Services.csproj
+		SccProjectName5 = PCR.Users.Services
+		SccLocalPath5 = PCR.Users.Services
+	EndGlobalSection
+EndGlobal

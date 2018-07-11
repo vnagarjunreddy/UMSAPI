@@ -1,0 +1,5 @@
+D:\Betabulls_Onboard\UMSAPI\UMS\PCR.Users.Model\bin\Debug\PCR.Users.Model.dll
+D:\Betabulls_Onboard\UMSAPI\UMS\PCR.Users.Model\bin\Debug\PCR.Users.Model.pdb
+D:\Betabulls_Onboard\UMSAPI\UMS\PCR.Users.Model\obj\Debug\PCR.Users.Model.dll
+D:\Betabulls_Onboard\UMSAPI\UMS\PCR.Users.Model\obj\Debug\PCR.Users.Model.pdb
+D:\Betabulls_Onboard\UMSAPI\UMS\PCR.Users.Model\obj\Debug\PCR.Users.Models.csprojResolveAssemblyReference.cache
